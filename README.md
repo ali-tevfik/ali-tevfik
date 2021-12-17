@@ -1,7 +1,7 @@
 🕹 cub3d: Graphic project using ray-casting.
 
-Welcome to my GitHub :)
-Latest projects I finished:
+Welcome to my GitHub :)<br><br>
+Latest projects I finished:<br>
 
  &ensp; 🖥 [ft_server](https://github.com/ali-tevfik/Codam/tree/master/ft_server2): Web server setup using Docker. Runs Wordpress, phpMyAdmin and keeps a SQL database.<br>
  🕹 [so_long](https://github.com/ali-tevfik/So_Long): 2D game.<br>
