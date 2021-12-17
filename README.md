@@ -1,5 +1,5 @@
 Welcome to my GitHub :)<br><br>
-Latest projects I finished:<br>
+ &ensp;Latest projects I finished:<br><br>
  &ensp; 🖥 [ft_server](https://github.com/ali-tevfik/Codam/tree/master/ft_server2): Web server setup using Docker. Runs Wordpress, phpMyAdmin and keeps a SQL database.<br>
  🕹 [so_long](https://github.com/ali-tevfik/So_Long): 2D game.<br>
  📚 [libft](https://github.com/ali-tevfik/Codam/tree/master/Libft): My own C library, regrouping usual functions.<br>
