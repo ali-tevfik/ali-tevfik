@@ -1,16 +1,11 @@
-### Hi there 👋
+Welcome to my GitHub :)
+Latest projects I finished:
 
-<!--
-**ali-tevfik/ali-tevfik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🖥 ft_server: Web server setup using Docker. Runs Wordpress, phpMyAdmin and keeps a SQL database.
+ 🕹 so_long: 2D game.
+ 📚 libft: My own C library, regrouping usual functions.
+ 🖨 ft_printf: Self-built C printf function
+ 📄 get_next_line: Reads one line at the time from a file descriptor
+ 🔢 push_swap: Sorts a stack of numbers
+Currently working on:
+ 🍴 pipex: Mimics the usage of UNIX mechanisms with system calls only.
