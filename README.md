@@ -5,5 +5,5 @@
  🖨 [ft_printf](https://github.com/ali-tevfik/Codam/tree/master/ft_printf): Self-built C printf function<br>
   &ensp; 🖥 [ft_server](https://github.com/ali-tevfik/Codam/tree/master/ft_server2): Web server setup using Docker. Runs Wordpress, phpMyAdmin and keeps a SQL database.<br>
  🔢 [push_swap](https://github.com/ali-tevfik/Codam/tree/master/push_swap): Sorts a stack of numbers<br>
- &ensp; 🕹 [so_long](https://github.com/ali-tevfik/So_Long): 2D game with the help of the minilibX and X11 graphic server.<br><br>
+ &ensp; 🕹 [so_long](https://github.com/ali-tevfik/So_Long): 2D game with the help of the minilibX and X11 graphic server.<br>
  🍴 [pipex](https://github.com/ali-tevfik/Pipex): Mimics the usage of UNIX mechanisms with system calls only.<br>
