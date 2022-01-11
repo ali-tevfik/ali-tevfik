@@ -9,3 +9,4 @@ Hooiiii :)<br><br>
  🍴 [pipex](https://github.com/ali-tevfik/Pipex): Mimics the usage of UNIX mechanisms with system calls only.<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-tevfik)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-tevfik&hide=contribs,prs)
