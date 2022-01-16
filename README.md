@@ -1,7 +1,6 @@
 Hiiii!<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-tevfik&theme=midnight-purple&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-tevfik&layout=compact)](https://github.com/ali-tevfik/github-readme-stats)
 
   Latest projects I finished:<br><br>
   &ensp; 📚 [libft](https://github.com/ali-tevfik/Codam/tree/master/Libft): My own C library, regrouping usual functions.<br>
