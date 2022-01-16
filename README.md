@@ -1,6 +1,7 @@
 Hiiii!<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-tevfik&theme=midnight-purple&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-tevfik&layout=compact)](https://github.com/ali-tevfik/github-readme-stats)
 
   Latest projects I finished:<br><br>
   &ensp; 📚 [libft](https://github.com/ali-tevfik/Codam/tree/master/Libft): My own C library, regrouping usual functions.<br>
@@ -11,3 +12,5 @@ Hiiii!<br><br>
  &ensp; 🕹 [so_long](https://github.com/ali-tevfik/So_Long): 2D game with the help of the minilibX and X11 graphic server.<br>
  🍴 [pipex](https://github.com/ali-tevfik/Pipex): Mimics the usage of UNIX mechanisms with system calls only.<br>
 
+i'm working now:
+ minishell
