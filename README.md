@@ -10,3 +10,4 @@ Hiiii!<br><br>
  🔢 [push_swap](https://github.com/ali-tevfik/Codam/tree/master/push_swap): Sorts a stack of numbers<br>
  &ensp; 🕹 [so_long](https://github.com/ali-tevfik/So_Long): 2D game with the help of the minilibX and X11 graphic server.<br>
  🍴 [pipex](https://github.com/ali-tevfik/Pipex): Mimics the usage of UNIX mechanisms with system calls only.<br>
+This project is about creating a simple shell.![bash-161382_960_720](https://user-images.githubusercontent.com/25388772/159700699-4f8bbd02-d3e1-4e67-a52c-49adc0dfb6ea.png)
