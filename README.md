@@ -16,6 +16,8 @@ You will see how to create threads and you will discover mutexes.
 <br>
  Currently working on:<br>
  &ensp; [CPP Modules](https://github.com/ali-tevfik/cpp) : The goal of these modules is to introduce you to Object-Oriented Programming.
+ <br>&ensp; [CUB3D](https://github.com/ali-tevfik/Cub3d) : 3D gaming 
 <br><br>
 And Android Project<br> 
-[PazarYeri](https://github.com/ali-tevfik/PazarYeri.git) : Markets project.
+[PazarYeri](https://github.com/ali-tevfik/PazarYeri.git) : Markets project.<br>
+[HomeWizard Opdracht](https://github.com/ali-tevfik/HomeWizardOpdracht) : Connection device with retrofit and every 5 seconden refresh data with Coroutine.
