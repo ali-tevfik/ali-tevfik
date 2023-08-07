@@ -17,7 +17,6 @@ You will see how to create threads and you will discover mutexes.
 <br> &ensp; [CPP Modules](https://github.com/ali-tevfik/cpp) : The goal of these modules is to introduce you to Object-Oriented Programming
 <br>
  🌐 [webserv](https://github.com/idilbulak/webserv): Built my own webserver in C++
-<br><br>
- Currently working on:<br>
+<br>
    🏓 [transcendence](https://github.com/ali-tevfik/ft_transcendence): Create a website to play Pong with others
 <br><br>
